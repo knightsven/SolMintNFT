@@ -58,5 +58,3 @@ If you have any doubt or suggestions regarding the project or it's any issue, fe
 * Solana doc: https://docs.solana.com/developers
 * Rust doc: https://doc.rust-lang.org/book/title-page.html
 * Metaplex doc: https://docs.metaplex.com/
-
-* @ 6/20/2024
